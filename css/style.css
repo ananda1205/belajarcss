@@ -41,3 +41,42 @@ p{
     border: none;
     color: white;
 }
+
+#kotaksatu {
+width: 50px;
+height: 50px;
+background-color: brown;
+display: inline-block;
+}
+#kotakdua {
+    width: 50px;
+height: 50px;
+margin-top: 10px;
+background-color: rgb(88, 10, 10);
+display: inline-block;
+}
+
+#lingkaran{
+    width: 50px;
+height: 50px;
+background-color: rgb(38, 13, 82);
+border-radius: 100px;
+display: inline-block;
+}
+
+#persegipanjang{
+    width: 150px;
+height: 50px;
+background-color: rgb(11, 66, 83);
+display: inline-block;
+
+}
+
+#segitiga{
+   
+border-bottom:solid 100px rgb(25, 58, 7);
+border-left: solid 90px transparent;
+border-right:solid 90px transparent;
+display: inline-block;
+
+}
